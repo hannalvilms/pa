@@ -6,5 +6,5 @@ Teine rida
 Kolmas rida
  */
 
- 
+// üks rida
 ?>
