@@ -7,7 +7,7 @@
 
 $etteAntudArv = 20;
 //lubame kasutajal arvata
-$kasutajaArv = 15;
+$kasutajaArv = 10;
 
 
 //võrdlus
