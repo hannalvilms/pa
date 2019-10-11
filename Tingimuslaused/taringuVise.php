@@ -6,7 +6,6 @@
  */
 
 $number = rand(1,7);
-var_dump($number);
 
 //switch kontroll
 switch ($number){
